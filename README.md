@@ -1,4 +1,4 @@
-# DSC mentorship Pag
+# DSC mentorship Page
 Built with html and css only
 
 # Contributing
